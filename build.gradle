@@ -1,4 +1,6 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
+group = 'com.github.wanghao9660'
+
 buildscript {
     repositories {
         google()
